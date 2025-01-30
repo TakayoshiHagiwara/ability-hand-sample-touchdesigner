@@ -14,6 +14,7 @@ This sample is for controlling the Ability Hand available from [PSYONIC, Inc.](h
 - [Copyright](#copyright)
 - [Environment](#environment)
 - [Installation](#installation)
+  - [How to connect](#how-to-connect)
 - [Description](#description)
 - [References](#references)
 - [Troubleshooting](#troubleshooting)
@@ -56,6 +57,8 @@ Also, please make sure that the following are placed in the path of the module y
 pip install pyserial
 ```
 
+## How to connect
+![HowToConnect](https://github.com/user-attachments/assets/47038b82-8f04-41eb-8816-7ece3a7bed89)
 
 # Description
 Ability Handにシリアル通信で接続し、スライダーによって各指を制御するデモが含まれています。
